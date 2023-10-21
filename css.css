@@ -1,0 +1,66 @@
+        body {
+            background-color: aliceblue;
+        }
+        header {
+            background-color: peachpuff;
+            text-align: center;
+            width: 100%;
+            height: 100%;
+        }
+        footer {
+            background-color: peachpuff;
+            text-align: center;
+            width: 100%;
+            height: 100%;
+        }
+        table {
+            width: 100%;}
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #e6bda5;
+        }
+        td {
+            background-color: #645f59;
+        }
+        #Cel1 {
+            background-color: darkgoldenrod;
+        }
+        #Cel2 {
+            background-color: mistyrose;
+        }
+        #Cel3 {
+            background-color: sienna;
+        }
+        #Cel4 {
+            background-color: saddlebrown;  
+        }      
+        #Cel5 {
+            background-color: burlywood;
+        }
+        #Cel6 {
+            background-color: beige;
+        }
+        #Cel7 {
+            background-color: linen;
+        }
+        #Cel8 {
+            background-color: wheat;
+        }
+        #Cel9 {
+            background-color: tan;
+        }
+        #Cel10 {
+            background-color: seashell;
+        }
+        #Cel11 {
+            background-color: chocolate;
+        }
+        #Cel12 {
+            background-color: moccasin;
+        }
